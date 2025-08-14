@@ -75,5 +75,5 @@ Create and analyze machine learning models using collected data.
 ---
 
 ## 📫 İletişim / Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umutcanyuceekin)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umutcan-yüceekin-0182b6209/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/umutcanyuceekin)
