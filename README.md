@@ -24,21 +24,13 @@ Develop interactive web applications using JavaScript.
 React ile dinamik ve kullanıcı odaklı frontend uygulamaları geliştirebiliyorum.  
 Build dynamic and user-focused frontend applications with React.
 
-![iOS](https://img.shields.io/badge/-iOS-000000?style=flat&logo=apple&logoColor=white)  
-iOS platformunda temel mobil uygulama geliştirme deneyimine sahibim.  
-Basic mobile app development experience for iOS platform.
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
 Node.js ile temel backend geliştirme ve veri yönetimi yapabiliyorum.  
 Perform basic backend development and data management with Node.js.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-Python ile veri analizi ve makine öğrenmesi projeleri geliştirebiliyorum.  
+Python ile veri analizi ve makine öğrenmesi projeleri geliştirdim.
 Develop data analysis and machine learning projects with Python.
-
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-C# ile masaüstü uygulama ve temel backend geliştirme deneyimim var.  
-Desktop applications and basic backend development experience with C#.
 
 ![Machine Learning](https://img.shields.io/badge/-ML-FF6F61?style=flat&logo=google&logoColor=white)  
 Toplanan veriler üzerinden makine öğrenmesi modelleri oluşturup analiz yapabiliyorum.  
@@ -51,9 +43,7 @@ Create and analyze machine learning models using collected data.
 - **Hesap.co Frontend** – Staj sırasında geliştirdiğim kullanıcı arayüzleri ve etkileşimler  
   Developed user interfaces and interactions during internship.
 
-- **IoT Tabanlı Su Kalitesi Sistemi** – Gölet izleme ve veri analizi ile sistem geliştirme  
-  Pond monitoring system with data analysis using IoT.
-
+- **Portfolio** – Portfolio sayfam
 - **Atık Yönetimi Makine Öğrenmesi Projesi** – Toplanan verilerle atık yönetimi ve optimizasyon modeli  
   Waste Management Machine Learning Project – Optimization model using collected data.
 
@@ -70,7 +60,7 @@ Create and analyze machine learning models using collected data.
 
 - Tarih ve antik çağ araştırmaları / History and ancient civilizations  
 - Açık kaynak projelere katkı sağlamak / Contributing to open source projects  
-- Makine öğrenmesi ve veri bilimi / Machine learning and data science
+
 
 ---
 
