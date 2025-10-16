@@ -5,7 +5,7 @@ Bilgisayar Mühendisliği mezunu ve yazılım geliştirmeye tutkulu bir mühendi
 I am a Computer Engineering graduate and a passionate software developer. I work on frontend and data collection systems and explore machine learning models using IoT data. I value teamwork and effective communication in projects.
 
 ---
-
+my personal porfolio : https://github.com/umutcanyuceekin/personal-potfolio
 ## 💻 Teknik Beceriler / Technical Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
